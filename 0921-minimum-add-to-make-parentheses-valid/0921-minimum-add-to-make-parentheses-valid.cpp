@@ -3,7 +3,7 @@ public:
     int minAddToMakeValid(string s) {
 
         stack<int> st;
-        stack<int> st1;
+        //stack<int> st1;
 
         for(int i = 0; i < s.size(); i++){
             
@@ -11,16 +11,16 @@ public:
                 st.push(s[i]);
             }
             else{
-                if(!st.empty()){
+                if(!st.empty() && st.top() == '('){
                     st.pop();
                 }
                 else{
-                    st1.push(s[i]);
+                    st.push(s[i]);
                 }
             }
         }
 
-        return (st.size() + st1.size());
+        return st.size();
         
     }
 };
