@@ -6,6 +6,7 @@ Leetcode  Problem solution
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Mukulsingh012/DSA/tree/master/0046-permutations) |
 | [2418-sort-the-people](https://github.com/Mukulsingh012/DSA/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@ Leetcode  Problem solution
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Mukulsingh012/DSA/tree/master/0046-permutations) |
 | [0301-remove-invalid-parentheses](https://github.com/Mukulsingh012/DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Breadth-First Search
 |  |
