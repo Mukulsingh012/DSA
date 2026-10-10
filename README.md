@@ -7,11 +7,13 @@ Leetcode  Problem solution
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Mukulsingh012/DSA/tree/master/0046-permutations) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Mukulsingh012/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2418-sort-the-people](https://github.com/Mukulsingh012/DSA/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
 | [1370-increasing-decreasing-string](https://github.com/Mukulsingh012/DSA/tree/master/1370-increasing-decreasing-string) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Mukulsingh012/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2418-sort-the-people](https://github.com/Mukulsingh012/DSA/tree/master/2418-sort-the-people) |
 ## String
 |  |
@@ -24,6 +26,7 @@ Leetcode  Problem solution
 ## Sorting
 |  |
 | ------- |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Mukulsingh012/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2418-sort-the-people](https://github.com/Mukulsingh012/DSA/tree/master/2418-sort-the-people) |
 ## Stack
 |  |
