@@ -76,6 +76,7 @@ Leetcode  Problem solution
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Mukulsingh012/DSA/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Mukulsingh012/DSA/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
 |  |
@@ -84,5 +85,6 @@ Leetcode  Problem solution
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Mukulsingh012/DSA/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Mukulsingh012/DSA/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
