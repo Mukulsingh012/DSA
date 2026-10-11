@@ -9,6 +9,7 @@ Leetcode  Problem solution
 | [0046-permutations](https://github.com/Mukulsingh012/DSA/tree/master/0046-permutations) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mukulsingh012/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2418-sort-the-people](https://github.com/Mukulsingh012/DSA/tree/master/2418-sort-the-people) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Mukulsingh012/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,4 +69,8 @@ Leetcode  Problem solution
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Mukulsingh012/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Mukulsingh012/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
