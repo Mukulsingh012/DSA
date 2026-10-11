@@ -73,4 +73,16 @@ Leetcode  Problem solution
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mukulsingh012/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+## Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Mukulsingh012/DSA/tree/master/0633-sum-of-square-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Mukulsingh012/DSA/tree/master/0633-sum-of-square-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Mukulsingh012/DSA/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
