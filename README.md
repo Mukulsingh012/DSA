@@ -50,6 +50,7 @@ Leetcode  Problem solution
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mukulsingh012/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Mukulsingh012/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mukulsingh012/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Mukulsingh012/DSA/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Leetcode  Problem solution
 | [0367-valid-perfect-square](https://github.com/Mukulsingh012/DSA/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Mukulsingh012/DSA/tree/master/0633-sum-of-square-numbers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Mukulsingh012/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Mukulsingh012/DSA/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
