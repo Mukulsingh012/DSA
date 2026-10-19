@@ -9,6 +9,7 @@ Leetcode  Problem solution
 | [0046-permutations](https://github.com/Mukulsingh012/DSA/tree/master/0046-permutations) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mukulsingh012/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mukulsingh012/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mukulsingh012/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2363-merge-similar-items](https://github.com/Mukulsingh012/DSA/tree/master/2363-merge-similar-items) |
 | [2418-sort-the-people](https://github.com/Mukulsingh012/DSA/tree/master/2418-sort-the-people) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mukulsingh012/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -37,6 +38,7 @@ Leetcode  Problem solution
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Mukulsingh012/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mukulsingh012/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mukulsingh012/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2363-merge-similar-items](https://github.com/Mukulsingh012/DSA/tree/master/2363-merge-similar-items) |
 | [2418-sort-the-people](https://github.com/Mukulsingh012/DSA/tree/master/2418-sort-the-people) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mukulsingh012/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -102,6 +104,7 @@ Leetcode  Problem solution
 | [0209-minimum-size-subarray-sum](https://github.com/Mukulsingh012/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/Mukulsingh012/DSA/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Mukulsingh012/DSA/tree/master/0633-sum-of-square-numbers) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mukulsingh012/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Ordered Set
 |  |
 | ------- |
