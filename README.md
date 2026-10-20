@@ -97,6 +97,7 @@ Leetcode  Problem solution
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Mukulsingh012/DSA/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Mukulsingh012/DSA/tree/master/0633-sum-of-square-numbers) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Mukulsingh012/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Mukulsingh012/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Mukulsingh012/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Mukulsingh012/DSA/tree/master/4000-largest-integer-with-given-digit-sum) |
