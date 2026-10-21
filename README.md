@@ -22,6 +22,7 @@ Leetcode  Problem solution
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mukulsingh012/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mukulsingh012/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Mukulsingh012/DSA/tree/master/0567-permutation-in-string) |
 | [1370-increasing-decreasing-string](https://github.com/Mukulsingh012/DSA/tree/master/1370-increasing-decreasing-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mukulsingh012/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mukulsingh012/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -34,6 +35,7 @@ Leetcode  Problem solution
 | [0301-remove-invalid-parentheses](https://github.com/Mukulsingh012/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mukulsingh012/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mukulsingh012/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Mukulsingh012/DSA/tree/master/0567-permutation-in-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mukulsingh012/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1370-increasing-decreasing-string](https://github.com/Mukulsingh012/DSA/tree/master/1370-increasing-decreasing-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mukulsingh012/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -107,6 +109,7 @@ Leetcode  Problem solution
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Mukulsingh012/DSA/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Mukulsingh012/DSA/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
@@ -124,6 +127,7 @@ Leetcode  Problem solution
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mukulsingh012/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mukulsingh012/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Mukulsingh012/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Mukulsingh012/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mukulsingh012/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mukulsingh012/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
