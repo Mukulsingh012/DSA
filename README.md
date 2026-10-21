@@ -20,6 +20,7 @@ Leetcode  Problem solution
 ## Hash Table
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Mukulsingh012/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mukulsingh012/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1370-increasing-decreasing-string](https://github.com/Mukulsingh012/DSA/tree/master/1370-increasing-decreasing-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mukulsingh012/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -31,6 +32,7 @@ Leetcode  Problem solution
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Mukulsingh012/DSA/tree/master/0301-remove-invalid-parentheses) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Mukulsingh012/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mukulsingh012/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mukulsingh012/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1370-increasing-decreasing-string](https://github.com/Mukulsingh012/DSA/tree/master/1370-increasing-decreasing-string) |
@@ -120,6 +122,7 @@ Leetcode  Problem solution
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mukulsingh012/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Mukulsingh012/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Mukulsingh012/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mukulsingh012/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mukulsingh012/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
