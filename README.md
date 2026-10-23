@@ -28,6 +28,7 @@ Leetcode  Problem solution
 | [0567-permutation-in-string](https://github.com/Mukulsingh012/DSA/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mukulsingh012/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1370-increasing-decreasing-string](https://github.com/Mukulsingh012/DSA/tree/master/1370-increasing-decreasing-string) |
+| [1410-html-entity-parser](https://github.com/Mukulsingh012/DSA/tree/master/1410-html-entity-parser) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mukulsingh012/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mukulsingh012/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mukulsingh012/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -44,6 +45,7 @@ Leetcode  Problem solution
 | [0709-to-lower-case](https://github.com/Mukulsingh012/DSA/tree/master/0709-to-lower-case) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mukulsingh012/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1370-increasing-decreasing-string](https://github.com/Mukulsingh012/DSA/tree/master/1370-increasing-decreasing-string) |
+| [1410-html-entity-parser](https://github.com/Mukulsingh012/DSA/tree/master/1410-html-entity-parser) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mukulsingh012/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mukulsingh012/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mukulsingh012/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
