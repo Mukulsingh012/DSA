@@ -30,6 +30,7 @@ Leetcode  Problem solution
 | [1370-increasing-decreasing-string](https://github.com/Mukulsingh012/DSA/tree/master/1370-increasing-decreasing-string) |
 | [1410-html-entity-parser](https://github.com/Mukulsingh012/DSA/tree/master/1410-html-entity-parser) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mukulsingh012/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Mukulsingh012/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mukulsingh012/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mukulsingh012/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2363-merge-similar-items](https://github.com/Mukulsingh012/DSA/tree/master/2363-merge-similar-items) |
@@ -49,6 +50,7 @@ Leetcode  Problem solution
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mukulsingh012/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mukulsingh012/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mukulsingh012/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Mukulsingh012/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mukulsingh012/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2418-sort-the-people](https://github.com/Mukulsingh012/DSA/tree/master/2418-sort-the-people) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Mukulsingh012/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
