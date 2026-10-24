@@ -32,6 +32,7 @@ Leetcode  Problem solution
 | [1370-increasing-decreasing-string](https://github.com/Mukulsingh012/DSA/tree/master/1370-increasing-decreasing-string) |
 | [1410-html-entity-parser](https://github.com/Mukulsingh012/DSA/tree/master/1410-html-entity-parser) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mukulsingh012/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1496-path-crossing](https://github.com/Mukulsingh012/DSA/tree/master/1496-path-crossing) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Mukulsingh012/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mukulsingh012/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mukulsingh012/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -51,6 +52,7 @@ Leetcode  Problem solution
 | [1410-html-entity-parser](https://github.com/Mukulsingh012/DSA/tree/master/1410-html-entity-parser) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mukulsingh012/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mukulsingh012/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1496-path-crossing](https://github.com/Mukulsingh012/DSA/tree/master/1496-path-crossing) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mukulsingh012/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Mukulsingh012/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mukulsingh012/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
