@@ -19,6 +19,7 @@ Leetcode  Problem solution
 | [2418-sort-the-people](https://github.com/Mukulsingh012/DSA/tree/master/2418-sort-the-people) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mukulsingh012/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mukulsingh012/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2942-find-words-containing-character](https://github.com/Mukulsingh012/DSA/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/Mukulsingh012/DSA/tree/master/3024-type-of-triangle) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Mukulsingh012/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mukulsingh012/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -58,6 +59,7 @@ Leetcode  Problem solution
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Mukulsingh012/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mukulsingh012/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2418-sort-the-people](https://github.com/Mukulsingh012/DSA/tree/master/2418-sort-the-people) |
+| [2942-find-words-containing-character](https://github.com/Mukulsingh012/DSA/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/Mukulsingh012/DSA/tree/master/3019-number-of-changing-keys) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Mukulsingh012/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
