@@ -124,6 +124,7 @@ Leetcode  Problem solution
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Mukulsingh012/DSA/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Mukulsingh012/DSA/tree/master/0633-sum-of-square-numbers) |
+| [1486-xor-operation-in-an-array](https://github.com/Mukulsingh012/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Mukulsingh012/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Mukulsingh012/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/Mukulsingh012/DSA/tree/master/3024-type-of-triangle) |
@@ -173,6 +174,7 @@ Leetcode  Problem solution
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mukulsingh012/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1486-xor-operation-in-an-array](https://github.com/Mukulsingh012/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Mukulsingh012/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Rolling Hash
 |  |
