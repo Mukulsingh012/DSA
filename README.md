@@ -107,6 +107,7 @@ Leetcode  Problem solution
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Mukulsingh012/DSA/tree/master/0301-remove-invalid-parentheses) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Mukulsingh012/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -192,4 +193,16 @@ Leetcode  Problem solution
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/Mukulsingh012/DSA/tree/master/3024-type-of-triangle) |
+## Depth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Mukulsingh012/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Mukulsingh012/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Mukulsingh012/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
