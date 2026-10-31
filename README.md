@@ -22,6 +22,7 @@ Leetcode  Problem solution
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mukulsingh012/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/Mukulsingh012/DSA/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/Mukulsingh012/DSA/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Mukulsingh012/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Mukulsingh012/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mukulsingh012/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -132,6 +133,7 @@ Leetcode  Problem solution
 | [2769-find-the-maximum-achievable-number](https://github.com/Mukulsingh012/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Mukulsingh012/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/Mukulsingh012/DSA/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Mukulsingh012/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Mukulsingh012/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Mukulsingh012/DSA/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Two Pointers
