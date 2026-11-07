@@ -131,6 +131,7 @@ Leetcode  Problem solution
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Mukulsingh012/DSA/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Mukulsingh012/DSA/tree/master/0367-valid-perfect-square) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mukulsingh012/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Mukulsingh012/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -153,6 +154,7 @@ Leetcode  Problem solution
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Mukulsingh012/DSA/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mukulsingh012/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/Mukulsingh012/DSA/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Mukulsingh012/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -220,4 +222,8 @@ Leetcode  Problem solution
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mukulsingh012/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Mukulsingh012/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
