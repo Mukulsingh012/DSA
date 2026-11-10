@@ -140,6 +140,7 @@ Leetcode  Problem solution
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Mukulsingh012/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Mukulsingh012/DSA/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/Mukulsingh012/DSA/tree/master/0367-valid-perfect-square) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mukulsingh012/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Mukulsingh012/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -237,5 +238,10 @@ Leetcode  Problem solution
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Mukulsingh012/DSA/tree/master/0070-climbing-stairs) |
 | [3693-climbing-stairs-ii](https://github.com/Mukulsingh012/DSA/tree/master/3693-climbing-stairs-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Mukulsingh012/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
