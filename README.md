@@ -7,6 +7,7 @@ Leetcode  Problem solution
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Mukulsingh012/DSA/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Mukulsingh012/DSA/tree/master/0049-group-anagrams) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mukulsingh012/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mukulsingh012/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0575-distribute-candies](https://github.com/Mukulsingh012/DSA/tree/master/0575-distribute-candies) |
@@ -32,6 +33,7 @@ Leetcode  Problem solution
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mukulsingh012/DSA/tree/master/0049-group-anagrams) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mukulsingh012/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mukulsingh012/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Mukulsingh012/DSA/tree/master/0567-permutation-in-string) |
@@ -50,6 +52,7 @@ Leetcode  Problem solution
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mukulsingh012/DSA/tree/master/0049-group-anagrams) |
 | [0301-remove-invalid-parentheses](https://github.com/Mukulsingh012/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mukulsingh012/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mukulsingh012/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -71,6 +74,7 @@ Leetcode  Problem solution
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mukulsingh012/DSA/tree/master/0049-group-anagrams) |
 | [0451-sort-characters-by-frequency](https://github.com/Mukulsingh012/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mukulsingh012/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mukulsingh012/DSA/tree/master/0594-longest-harmonious-subsequence) |
