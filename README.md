@@ -100,6 +100,7 @@ Leetcode  Problem solution
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mukulsingh012/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Mukulsingh012/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mukulsingh012/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Mukulsingh012/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Mukulsingh012/DSA/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Bracket Sequences
 |  |
@@ -153,6 +154,7 @@ Leetcode  Problem solution
 | [3232-find-if-digit-game-can-be-won](https://github.com/Mukulsingh012/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Mukulsingh012/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mukulsingh012/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Mukulsingh012/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Mukulsingh012/DSA/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Two Pointers
 |  |
