@@ -30,6 +30,7 @@ Leetcode  Problem solution
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Mukulsingh012/DSA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mukulsingh012/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Mukulsingh012/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Mukulsingh012/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Mukulsingh012/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3693-climbing-stairs-ii](https://github.com/Mukulsingh012/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mukulsingh012/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -191,10 +192,12 @@ Leetcode  Problem solution
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mukulsingh012/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/Mukulsingh012/DSA/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mukulsingh012/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Mukulsingh012/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mukulsingh012/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Mukulsingh012/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Indexed Tree
 |  |
 | ------- |
