@@ -23,6 +23,7 @@ Leetcode  Problem solution
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/Mukulsingh012/DSA/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2363-merge-similar-items](https://github.com/Mukulsingh012/DSA/tree/master/2363-merge-similar-items) |
 | [2418-sort-the-people](https://github.com/Mukulsingh012/DSA/tree/master/2418-sort-the-people) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Mukulsingh012/DSA/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Mukulsingh012/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mukulsingh012/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mukulsingh012/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -171,6 +172,7 @@ Leetcode  Problem solution
 | [0567-permutation-in-string](https://github.com/Mukulsingh012/DSA/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Mukulsingh012/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Mukulsingh012/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Mukulsingh012/DSA/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Binary Search
 |  |
 | ------- |
