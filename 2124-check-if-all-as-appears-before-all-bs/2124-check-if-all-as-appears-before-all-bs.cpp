@@ -9,7 +9,7 @@ public:
             if(s[i] == 'b'){
                 isTrue = 1;
             }
-            else if(s[i] == 'a' && isTrue == 1){
+            else if(isTrue == 1){
                 return false;
             }
         }
