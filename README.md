@@ -76,6 +76,7 @@ Leetcode  Problem solution
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mukulsingh012/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Mukulsingh012/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mukulsingh012/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Mukulsingh012/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Mukulsingh012/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2418-sort-the-people](https://github.com/Mukulsingh012/DSA/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/Mukulsingh012/DSA/tree/master/2942-find-words-containing-character) |
