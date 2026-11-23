@@ -14,6 +14,7 @@ Leetcode  Problem solution
 | [0594-longest-harmonious-subsequence](https://github.com/Mukulsingh012/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Mukulsingh012/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mukulsingh012/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Mukulsingh012/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Mukulsingh012/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mukulsingh012/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1652-defuse-the-bomb](https://github.com/Mukulsingh012/DSA/tree/master/1652-defuse-the-bomb) |
@@ -162,6 +163,7 @@ Leetcode  Problem solution
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mukulsingh012/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Mukulsingh012/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mukulsingh012/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Mukulsingh012/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/Mukulsingh012/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mukulsingh012/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Mukulsingh012/DSA/tree/master/2769-find-the-maximum-achievable-number) |
@@ -209,6 +211,7 @@ Leetcode  Problem solution
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mukulsingh012/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Mukulsingh012/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Mukulsingh012/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Indexed Tree
 |  |
@@ -269,4 +272,12 @@ Leetcode  Problem solution
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Mukulsingh012/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Mukulsingh012/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Mukulsingh012/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
