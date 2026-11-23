@@ -54,6 +54,7 @@ Leetcode  Problem solution
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Mukulsingh012/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mukulsingh012/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mukulsingh012/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Mukulsingh012/DSA/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Mukulsingh012/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/Mukulsingh012/DSA/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2363-merge-similar-items](https://github.com/Mukulsingh012/DSA/tree/master/2363-merge-similar-items) |
@@ -78,6 +79,7 @@ Leetcode  Problem solution
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mukulsingh012/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Mukulsingh012/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mukulsingh012/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Mukulsingh012/DSA/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Mukulsingh012/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Mukulsingh012/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2418-sort-the-people](https://github.com/Mukulsingh012/DSA/tree/master/2418-sort-the-people) |
@@ -127,6 +129,7 @@ Leetcode  Problem solution
 | [0594-longest-harmonious-subsequence](https://github.com/Mukulsingh012/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1370-increasing-decreasing-string](https://github.com/Mukulsingh012/DSA/tree/master/1370-increasing-decreasing-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mukulsingh012/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Mukulsingh012/DSA/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Mukulsingh012/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Backtracking
 |  |
