@@ -14,6 +14,7 @@ Leetcode  Problem solution
 | [0594-longest-harmonious-subsequence](https://github.com/Mukulsingh012/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Mukulsingh012/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Mukulsingh012/DSA/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0916-word-subsets](https://github.com/Mukulsingh012/DSA/tree/master/0916-word-subsets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mukulsingh012/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Mukulsingh012/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Mukulsingh012/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -51,6 +52,7 @@ Leetcode  Problem solution
 | [0575-distribute-candies](https://github.com/Mukulsingh012/DSA/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mukulsingh012/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Mukulsingh012/DSA/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0916-word-subsets](https://github.com/Mukulsingh012/DSA/tree/master/0916-word-subsets) |
 | [1370-increasing-decreasing-string](https://github.com/Mukulsingh012/DSA/tree/master/1370-increasing-decreasing-string) |
 | [1410-html-entity-parser](https://github.com/Mukulsingh012/DSA/tree/master/1410-html-entity-parser) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mukulsingh012/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -76,6 +78,7 @@ Leetcode  Problem solution
 | [0567-permutation-in-string](https://github.com/Mukulsingh012/DSA/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/Mukulsingh012/DSA/tree/master/0709-to-lower-case) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Mukulsingh012/DSA/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0916-word-subsets](https://github.com/Mukulsingh012/DSA/tree/master/0916-word-subsets) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mukulsingh012/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1370-increasing-decreasing-string](https://github.com/Mukulsingh012/DSA/tree/master/1370-increasing-decreasing-string) |
 | [1410-html-entity-parser](https://github.com/Mukulsingh012/DSA/tree/master/1410-html-entity-parser) |
