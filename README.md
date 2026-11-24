@@ -43,6 +43,7 @@ Leetcode  Problem solution
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mukulsingh012/DSA/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/Mukulsingh012/DSA/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mukulsingh012/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mukulsingh012/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Mukulsingh012/DSA/tree/master/0567-permutation-in-string) |
@@ -66,6 +67,7 @@ Leetcode  Problem solution
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mukulsingh012/DSA/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/Mukulsingh012/DSA/tree/master/0205-isomorphic-strings) |
 | [0301-remove-invalid-parentheses](https://github.com/Mukulsingh012/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mukulsingh012/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mukulsingh012/DSA/tree/master/0451-sort-characters-by-frequency) |
