@@ -181,6 +181,7 @@ Leetcode  Problem solution
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Mukulsingh012/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/Mukulsingh012/DSA/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Mukulsingh012/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3360-stone-removal-game](https://github.com/Mukulsingh012/DSA/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Mukulsingh012/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Mukulsingh012/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mukulsingh012/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -285,6 +286,7 @@ Leetcode  Problem solution
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Mukulsingh012/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Mukulsingh012/DSA/tree/master/3360-stone-removal-game) |
 ## Design
 |  |
 | ------- |
